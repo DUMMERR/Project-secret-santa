@@ -1,0 +1,14 @@
+*.env
+.env
+*.env.*
+
+.vscode
+.dist/
+dist/
+
+/python/__pycache__/
+/python_test
+
+*\vscode
+.vscode/
+.vscode/*
