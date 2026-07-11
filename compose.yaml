@@ -1,0 +1,6 @@
+name: my_app
+
+services:
+  foo:
+    cpu_count: 2
+  
